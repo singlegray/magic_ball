@@ -34,6 +34,6 @@ answers = [
   'Весьма сомнительно'
 ]
 
-puts hi.sample
+puts greeting.sample
 sleep 2
 puts answers.sample
